@@ -45,4 +45,8 @@ public class Person
 		int age = myAge;
 		return age;
 		}
+
+	public void printFullName()
+	{
+		}
 	}
