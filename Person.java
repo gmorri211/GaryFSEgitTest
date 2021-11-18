@@ -49,4 +49,10 @@ public class Person
 	public void printFullName()
 	{
 		}
+
+	public String toString()
+	{
+		String string1 = "string";
+		return string1;
+		}
 	}
