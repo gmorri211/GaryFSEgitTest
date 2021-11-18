@@ -19,4 +19,24 @@ public class Person
 		this.otherName = "unknown";
 		this.surname = name2;
 		}
+
+	public String getFirstName()
+	{
+		return firstName;
+		}
+
+	public String getSurname()
+	{
+		return surname;
+		}
+
+	public void setFirstName()
+	{
+		this.firstName = firstName;
+		}
+
+	public void setSurname()
+	{
+		this.surname = surname;
+		}
 	}
