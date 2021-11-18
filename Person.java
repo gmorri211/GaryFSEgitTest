@@ -39,4 +39,10 @@ public class Person
 	{
 		this.surname = surname;
 		}
+
+	public int getAge(int myAge)
+	{
+		int age = myAge;
+		return age;
+		}
 	}
